@@ -1,7 +1,7 @@
 # DESCRIPTION
 C++ solutions to Codeforces problems of difficulty level 800
 
-### WHAT CAN YOU CONTRIBUTE
+### WHAT YOU CAN CONTRIBUTE
 1. Alternative solutions to the problems uploaded here by creating a new source file under the respective problem folder
 2. Solutions to new problems   
 
