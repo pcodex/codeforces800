@@ -51,6 +51,17 @@ void solve(int t) {
 
 int32_t main() {
 	FIO
+
+	/*
+		Sample test cases
+		3
+		2 4
+		3 7
+		2 6
+		4 2
+		3 11
+		2 1 7
+	*/
 	int t = 1;
 	cin >> t;
 	for (int i = 1; i <= t; i++) {
