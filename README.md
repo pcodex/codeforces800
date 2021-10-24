@@ -19,7 +19,9 @@ C++ solutions to Codeforces problems of difficulty level 800
 
 4. Push the changes to github
 
-5. Submit a PR
+5. Raise a PR
+
+6. Ensure all items in the PR checklist are done and submit it
 
 7. Happy Coding :grinning:
 
