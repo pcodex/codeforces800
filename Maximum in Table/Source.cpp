@@ -12,6 +12,8 @@ int main()
 	
 	vector<int> vr1;
 	for (int z = 0; z < dim; z++)
+		
+		//add element to the vector
 		vr1.push_back(1);
 	vin.push_back(vr1);
 
