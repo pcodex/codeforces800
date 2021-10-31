@@ -10,6 +10,7 @@ int main()
 	for (int i = 0; i < notests; ++i)
 	{
 		int a = 0, b = 0;
+		// get inputs
 		cin >> a >> b;
 
 		if (b > a)
