@@ -9,7 +9,7 @@ int main()
 	int nocit = 0;
 	cin >> nocit;
 	vector<int> vals;
-
+	//populate vector
 	for (int i = 0; i < nocit; ++i)
 	{
 		int val = 0;

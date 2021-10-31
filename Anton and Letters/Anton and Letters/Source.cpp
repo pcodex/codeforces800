@@ -29,7 +29,7 @@ int main()
 			vals.push_back(aval);
 		}*/
 
-		if(isalpha(mletter))		 
+		if(isalpha(mletter))	//is it an alphanumeric	 
 			myset.insert(mletter);		
 	}
 
