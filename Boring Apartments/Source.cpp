@@ -12,6 +12,7 @@ int main()
 	for (int i = 0; i < nooftests; ++i)
 	{
 		int press = 0;
+		// get inputs
 		cin >> press;
 
 		int dig = press % 10;
