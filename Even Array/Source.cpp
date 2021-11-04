@@ -18,6 +18,7 @@ int main()
 		{
 			int val = 0;
 			cin >> val;
+			//populate vector
 			vals.push_back(val);
 		}
 

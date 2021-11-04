@@ -7,6 +7,7 @@ using namespace std;
 int main()
 {
 	int nooftests = 0;
+	// get input
 	cin >> nooftests;
 
 	for (int i = 0; i < nooftests; ++i)

@@ -9,12 +9,14 @@ int main()
 
 	cin >> a1 >> a2 >> a3 >> a4;
 	string strips;
+	//get strips
 	cin >> strips;
 
 	int totcal = 0;
 
 	for (int i = 0; i < strips.length(); ++i)
 	{
+		// strip chars
 		switch (strips[i])
 		{
 		case '1':
